@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/hail-logo-trans.png){: style="width: 250px; float: right; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/combined.png){: style="width: 250px; float: right; margin: 0px  10px"}
 The **Health Care Access and Innovation Laboratory (HAIL)** at the **[National Institute of Mental Health and Neurosciences (NIMHANS)](https://nimhans.ac.in/)** was founded in October, 2022, as a joint venture of the Departments of Epidemiology, Neurology, and Neurosurgery with the generous support of the Shri Nanjangud G Viswanath Foundation. 
 
 The Healthcare Access and Innovation Laboratory (HAIL) is conceptualized to apply epidemiologic and systems engineering approaches to understanding the current status of neurologic disease care in India and develop scalable, low-cost, and digital solutions that facilitate the delivery of timely and appropriate care for patients suffering from these diseases. The efforts of this laboratory will target the following disease processes across all age groups, all of which are significant sources of morbidity and disability in India:
