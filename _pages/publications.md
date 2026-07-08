@@ -1,7 +1,7 @@
 ---
-title: "HAIL - Publications"
+title: "HAIL/ACCA - Publications"
 layout: gridlay
-excerpt: "HAIL -- Publications."
+excerpt: "HAIL/ACCA - Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## News
 
-- **Srinivas D, Anilkumar A.** *[After the crash: The race to care](https://www.deccanherald.com/opinion/after-the-crash-the-race-to-care-3874592).* **Deccan Herald.** January 25, 2026. Accessed July 8, 2026.
+- Srinivas D, Anilkumar A. *[After the crash: The race to care](https://www.deccanherald.com/opinion/after-the-crash-the-race-to-care-3874592).* Deccan Herald. January 25, 2026. Accessed July 8, 2026.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

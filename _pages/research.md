@@ -1,7 +1,7 @@
 ---
-title: "HAIL - Research"
+title: "HAIL/ACCA - Research"
 layout: textlay
-excerpt: "HAIL -- Research"
+excerpt: "HAIL/ACCA -- Research"
 sitemap: false
 permalink: /research/
 ---
