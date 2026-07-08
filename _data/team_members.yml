@@ -1,5 +1,5 @@
 - name: Suvarna Alladi, MBBS, DM
-  photo: rock.jpg
+  photo: suvarna.png
   info: Head of Department, Professor, Department of Neurology, NIMHANS
   email: none
   number_educ: 4
@@ -8,19 +8,30 @@
   education3: DM, Neurology, National Institute of Mental Health and Neurosciences, Bangalore, India
   education4: MBBS, Bangalore Medical College, Bangalore, India
 
+- name: Dwarakanath Srinivas, MBBS, MS, MCh 
+  photo: dwarakanath.jpg
+  info: Head of Department, Professor, Department of Neurosurgery, NIMHANS
+  email: none
+  education1: Sugita Fellowship, Congress of Neurological Surgeons, Toronto, ON, Canada 
+  education2: MCh, All India Institute of Medical Sciences (AIIMS), New Delhi, India
+  education3: MS, Postgraduate Institute of Medical Education and Research (PGIMER), Chandigarh, India
+  education4: MBBS, Bangalore Medical College (Gold Medalist), Bangalore, India
+
 - name: Girish Rao, MBBS, MD
-  photo: rock.jpg
+  photo: girish.png
   info: Professor, Department of Epidemiology, Centre for Public Health, NIMHANS
   email: girishnrao@yahoo.com
   number_educ: 2
   education1: MD, Community Medicine, Bangalore University, Bangalore, India
   education2: MBBS, Bangalore University, Bangalore, India
 
-- name: Rahul Amrutur Sastry, MD
+- name: Rahul Amrutur Sastry, MD MPH
   photo: rahul.jpg
-  info: Resident Physician, Neurosurgery, Brown University, and Visiting Physician, NIMHANS
+  info: Incoming Assistant PRofessor, Neurosurgery, Brown University, and Visiting Physician, NIMHANS
   email: rahul.sastry@gmail.com
-  number_educ: 3
-  education1: MPH Candidate, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA
-  education2: MD, Harvard Medical School, Boston, MA, USA
-  education3: BS, Mechanical Engineering, Stanford University, Stanford, CA, USA
+  number_educ: 5
+  education1: Complex Spinal Surgery Fellowship, University of California San Francisco (UCSF), San Francisco, CA, USA
+  education2: Neurosurgical Residency, Brown University Health, Providence, RI, USA
+  education3: MPH, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA
+  education4: MD, Harvard Medical School, Boston, MA, USA
+  education5: BS, Mechanical Engineering, Stanford University, Stanford, CA, USA
