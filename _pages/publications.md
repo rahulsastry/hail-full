@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Group Highlights and News
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
+- **Srinivas D, Anilkumar A.** *[After the crash: The race to care](https://www.deccanherald.com/opinion/after-the-crash-the-race-to-care-3874592).* **Deccan Herald.** January 25, 2026. Accessed July 8, 2026.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
