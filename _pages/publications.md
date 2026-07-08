@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group Highlights and News
+## News
 
 - **Srinivas D, Anilkumar A.** *[After the crash: The race to care](https://www.deccanherald.com/opinion/after-the-crash-the-race-to-care-3874592).* **Deccan Herald.** January 25, 2026. Accessed July 8, 2026.
 
@@ -51,10 +51,11 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+## Peer-Reviewed Publications
 
-## Patents
+- Ansari MF, Boopalan D, Inbaraj G, et al. Impact of a training program for community health officers on neurological disorders: insights from the Karnataka brain health initiative. *BMC Health Serv Res.* 2025;25(1):924. [doi:10.1186/s12913-025-12549-4](https://pubmed.ncbi.nlm.nih.gov/?term=10.1186%2Fs12913-025-12549-4)
 
-## Full List of publications
+- Mailankody P, Parthasarathy R, Randeep D, et al. Effectiveness of a training program in improving knowledge and skills about selected common neurological disorders among primary healthcare doctors: The Karnataka Brain Health Initiative (KaBHI) in India. *J Family Med Prim Care.* 2024;13(9):3719-3729. [doi:10.4103/jfmpc.jfmpc_1984_23](https://pubmed.ncbi.nlm.nih.gov/?term=10.4103%2Fjfmpc.jfmpc_1984_23)
 
 {% for publi in site.data.publist %}
 
