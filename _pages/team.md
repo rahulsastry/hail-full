@@ -8,9 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Primary Contacts
+## Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
