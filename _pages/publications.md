@@ -11,6 +11,8 @@ permalink: /publications/
 
 ## News
 
+- Srinivas D, Anilkumar A. *[The race against time: Fixing the lag in neurotrauma care](https://www.deccanherald.com/opinion/the-race-against-time-fixing-the-lag-in-neurotrauma-care-4093747).* Deccan Herald. July 30, 2026. Accessed August 31, 2026.
+
 - Srinivas D, Anilkumar A. *[After the crash: The race to care](https://www.deccanherald.com/opinion/after-the-crash-the-race-to-care-3874592).* Deccan Herald. January 25, 2026. Accessed July 8, 2026.
 
 {% assign number_printed = 0 %}
